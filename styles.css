@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
-.container{
-	
+#photo-heading{
+	text-align:center;
+	color: white;
 }
 img{
 	width:32.99%;
